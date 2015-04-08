@@ -1,1 +1,1 @@
-SELECT age FROM Clients WHERE condition = id.cond;
+SELECT * FROM Clients WHERE condition = id.cond;
